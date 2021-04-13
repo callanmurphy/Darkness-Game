@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aa9b9440-d85f-41c5-bdf9-911da0261104" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1b7Hlsjl7o4wOeBZBNzjK5xaxOj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.darkness">
+    <configuration name="Test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Darkness" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="darkness" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Darkness" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/darkness.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.darkness" />
+        <item itemvalue="Python.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aa9b9440-d85f-41c5-bdf9-911da0261104" name="Default Changelist" comment="" />
+      <created>1587976365116</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587976365116</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="104" y="62" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587976413744">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="104" y="62" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.800@0.0.1280.800" timestamp="1587976413744" />
+    <state x="482" y="297" key="#com.jetbrains.python.refactoring.move.PyMoveModuleMembersDialog" timestamp="1595818547305">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="482" y="297" key="#com.jetbrains.python.refactoring.move.PyMoveModuleMembersDialog/0.0.1280.800@0.0.1280.800" timestamp="1595818547305" />
+    <state width="355" height="701" key="GridCell.Tab.0.bottom" timestamp="1595831919316">
+      <screen x="0" y="23" width="1280" height="728" />
+    </state>
+    <state width="355" height="701" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1595819119552" />
+    <state width="355" height="701" key="GridCell.Tab.0.bottom/0.23.1280.728@0.23.1280.728" timestamp="1595831919316" />
+    <state width="355" height="701" key="GridCell.Tab.0.center" timestamp="1595831919315">
+      <screen x="0" y="23" width="1280" height="728" />
+    </state>
+    <state width="355" height="701" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1595819119550" />
+    <state width="355" height="701" key="GridCell.Tab.0.center/0.23.1280.728@0.23.1280.728" timestamp="1595831919315" />
+    <state width="355" height="701" key="GridCell.Tab.0.left" timestamp="1595831919315">
+      <screen x="0" y="23" width="1280" height="728" />
+    </state>
+    <state width="355" height="701" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1595819119550" />
+    <state width="355" height="701" key="GridCell.Tab.0.left/0.23.1280.728@0.23.1280.728" timestamp="1595831919315" />
+    <state width="355" height="701" key="GridCell.Tab.0.right" timestamp="1595831919316">
+      <screen x="0" y="23" width="1280" height="728" />
+    </state>
+    <state width="355" height="701" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1595819119551" />
+    <state width="355" height="701" key="GridCell.Tab.0.right/0.23.1280.728@0.23.1280.728" timestamp="1595831919316" />
+    <state width="1259" height="263" key="GridCell.Tab.1.bottom" timestamp="1595795101748">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1259" height="263" key="GridCell.Tab.1.bottom/0.0.1280.800@0.0.1280.800" timestamp="1595795101748" />
+    <state width="1259" height="263" key="GridCell.Tab.1.center" timestamp="1595795101746">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1259" height="263" key="GridCell.Tab.1.center/0.0.1280.800@0.0.1280.800" timestamp="1595795101746" />
+    <state width="1259" height="263" key="GridCell.Tab.1.left" timestamp="1595795101744">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1259" height="263" key="GridCell.Tab.1.left/0.0.1280.800@0.0.1280.800" timestamp="1595795101744" />
+    <state width="1259" height="263" key="GridCell.Tab.1.right" timestamp="1595795101747">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1259" height="263" key="GridCell.Tab.1.right/0.0.1280.800@0.0.1280.800" timestamp="1595795101747" />
+    <state x="141" y="39" key="SettingsEditor" timestamp="1588022841182">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="141" y="39" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1588022841182" />
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1588019828440">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup/0.0.1280.800@0.0.1280.800" timestamp="1588019828440" />
+  </component>
+</project>
