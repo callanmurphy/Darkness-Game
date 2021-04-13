@@ -1,4 +1,3 @@
-(July - August 2019)
 # Darkness
 2D Pygame Game (WIP)  
 Created to practice using clean architecture and well-organized code in OOP
