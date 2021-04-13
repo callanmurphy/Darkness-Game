@@ -1,6 +1,6 @@
 # Darkness
 2D Pygame Game (WIP)  
-Created to practice using clean architecture and well-organized code in OOP
+Created to practice clean architecture and efficient OOP code design
 
 # Start
 Run startup.py to begin the game
